@@ -1,0 +1,11 @@
+{
+    "name": "com.dac.pools",
+    "version": "1.0",
+    "displayName": "Pools",
+    "description": "一个轻量级、高性能的 Unity 对象缓存池组件。",
+    "unity": "2019.4",
+    "author": {
+        "name": "DaC",
+        "url": "https://github.com/ShenQing8"
+    }
+}
